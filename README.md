@@ -24,10 +24,11 @@
 ![mad8](https://user-images.githubusercontent.com/110656617/186154652-c1ee4858-aed2-4ba5-8f23-1626318c5da8.png)
 
 9.Find the max number from ArrayList.
-![Uploading mad9.png…]()
+![mad9](https://user-images.githubusercontent.com/110656617/186155474-a5ca6185-fee8-4c2a-82e2-e215960eee94.png)
+
 
 10. Write Different types of Class & Constructor. Create a class Car and set various members like type, model, price, owner, milesDrive. add the function getCarPrice in it. Create an object of Car class and access property of it. (getCarInformation(), getOriginalCarPrice(), getCurrentCarPrice(), displayCarInfo() etc.)
-![Uploading mad10.png…]()
+![mad10](https://user-images.githubusercontent.com/110656617/186156752-e20e1c74-3732-4f81-8470-ec535c371e6a.png)
 
 11. Write about Operator Overloading. Perform Matrix Addition, Subtraction & Multiplication using Class Matrix & operator overloading. Overload toString() function in Matrix class.
 ![mad11 1](https://user-images.githubusercontent.com/110656617/186154659-595ebcd9-f2b4-4ee3-a2c2-2ffff8be7be3.png)
